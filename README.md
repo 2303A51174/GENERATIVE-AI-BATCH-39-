@@ -5,3 +5,5 @@
 # generative-AI-BATCH-39-[ASSIGNMENT -05 (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/GenAI_Assignment_5.ipynb] Ass-05
 # generative-AI-BATCH-39-[ASSIGNMENT -06 (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/Assi06.ipynb] ASS-06
 # generative-AI-BATCH-39-[ASSIGNMENT -07 (2303a52331)/https://
+# generative-AI-BATCH-39-[ASSIGNMENT -08 (2303a52331)/https://
+# generative-AI-BATCH-39-[ASSIGNMENT -09 (2303a52331)/https://

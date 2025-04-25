@@ -7,3 +7,4 @@
 # generative-AI-BATCH-39-[ASSIGNMENT -07 (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/GenAI_Assignment_7.ipynb] Ass-07
 # generative-AI-BATCH-39-[ASSIGNMENT -08 (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/GenAI_Assignment_8.ipynb] ASS-08
 # generative-AI-BATCH-39-[ASSIGNMENT -09 (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/GenAI_Assignment_9.ipynb] ASS-09
+# generative-AI-BATCH-39-[PROJECT (2303a52331)/https://github.com/2303A51174/GENERATIVE-AI-BATCH-39-/blob/main/Untitled47.ipynb) PROJECT-01
